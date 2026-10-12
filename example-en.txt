@@ -1,0 +1,8 @@
+@title: Basic Countries
+@translation: en
+
+にほん ||| Japan
+ロシア ||| Russia
+ひと ||| Person
+おとこ ||| Man
+おんな ||| Woman
